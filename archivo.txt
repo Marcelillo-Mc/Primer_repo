@@ -1,6 +1,8 @@
 Primer archivo de texto
 se agrega cambio desde github
+cambio linea 3 desde github
 cambio local
 1
+cambio linea 6 desde github
 Cambio desde rama
 local
